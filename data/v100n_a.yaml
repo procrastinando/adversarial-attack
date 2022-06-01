@@ -1,0 +1,7 @@
+train: traffic_signs/v100n_a/crop/images/train/
+val: traffic_signs/v100n_a/crop/images/val/
+test: traffic_signs/v100n_a/crop/images/test/
+
+# Classes
+nc: 4  # number of classes
+names: ['no_stop', '25km', 'no_honk', 'pedestrians']  # class names
