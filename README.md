@@ -27,5 +27,6 @@ pip3 install matplotlib
 ```
 To install CUDA compiled OpenCV 4.4:
 ```
+cd OpenCV-4.4
 sudo ./opencv_install.sh
 ```
