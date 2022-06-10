@@ -15,3 +15,13 @@ pip install -r requirements.txt
 - Test the results
 - Attack the images using a model
 - Perform a new testing to corroborate the defense
+
+### To install in Jetpack
+```
+pip3 install pillow==8.4.0 -i http://mirrors.aliyun.com/pypi/simple
+```
+```
+pip3 install -U pip
+pip3 install -U setuptools
+pip3 install matplotlib
+```
