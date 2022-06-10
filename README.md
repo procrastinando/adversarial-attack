@@ -23,6 +23,7 @@ pip3 install pillow==8.4.0 -i http://mirrors.aliyun.com/pypi/simple
 ```
 pip3 install -U pip
 pip3 install -U setuptools
+pip3 install odrive
 pip3 install matplotlib
 ```
 To install CUDA compiled OpenCV 4.4:
