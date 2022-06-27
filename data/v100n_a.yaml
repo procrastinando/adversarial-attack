@@ -1,6 +1,6 @@
-train: traffic_signs/v100n_a/crop/images/train/
-val: traffic_signs/v100n_a/crop/images/val/
-test: traffic_signs/v100n_a/crop/images/test/
+train: traffic_signs/v100n_a/images/train/
+val: traffic_signs/v100n_a/images/val/
+test: traffic_signs/v100n_a/images/test/
 
 # Classes
 nc: 4  # number of classes
